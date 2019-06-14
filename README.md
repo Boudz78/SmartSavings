@@ -1,6 +1,7 @@
 # SmartSavings
-Exploring the power of bootstrap.
 v0.0.1
+Intial Project
+v0.0.2
 - Fixed navbar
 - New logo in navbar and favicon
 - Added a fixed size for the blocks
