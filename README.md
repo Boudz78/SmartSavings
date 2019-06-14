@@ -1,8 +1,8 @@
 # SmartSavings
-*v0.0.1*  
+## **v0.0.1**  
 Intial Project  
   
-*v0.0.2*  
+## **v0.0.2**  
 - Fixed navbar  
 - New logo in navbar and favicon  
 - Added a fixed size for the blocks  
