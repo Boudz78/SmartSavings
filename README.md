@@ -11,4 +11,4 @@ Intial Project
 - Alligned types of accounts (company/ind/partners)  
 - Added learn more for each with functionality  
 - Added Fname Lname and placeholders in subscription  
--Fixed some footer thingies  
+- Fixed some footer thingies  
