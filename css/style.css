@@ -1226,6 +1226,7 @@ h1, h2, h3, h4, h5,
 
 .unit-4 {
   padding: 30px;
+height: 350px ;
   background: #fff;
   border-radius: 5px;
   -webkit-transition: .3s all ease;
@@ -1819,6 +1820,10 @@ h1, h2, h3, h4, h5,
 .h-entry h2 a {
   color: #000;
   font-size: 30px; }
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+
 
 @media (max-width: 991.98px) {
   .site-logo {
